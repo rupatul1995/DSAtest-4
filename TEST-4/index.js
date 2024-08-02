@@ -11,6 +11,16 @@
 //     }
 //    }
   
+
+
+//practice:-
+
+// var  num=20;
+//  for (var i=0; i<=20; i++){
+//   if(i %2===0 && i!=10){
+//     console.log(i);
+//   }
+//  }
   
   //  Q.2  Write a JavaScript while loop that calculates the factorial of a given number and also counts how many iterations were needed.
   //  pennding
